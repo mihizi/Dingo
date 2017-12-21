@@ -1,4 +1,4 @@
-# PingIt
+# Dingo
 ## Installation:
    #### 1. run npm install
    #### 2. Make sure you have both the Java JDK and Android SDK downloaded or use an android native device
